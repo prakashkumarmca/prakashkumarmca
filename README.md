@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @prakashkumarmca
+- 👀 I’m interested in AWS, PHP, Laravel, Codeigniter, MYSQL, PSQL, HTML, CSS, JS.
+- 🌱 I’m currently learning AWS, Laravel
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me pprakashkumarppp@gmail.com, +91 9698968656
